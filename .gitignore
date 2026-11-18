@@ -1,0 +1,14 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.log
+
+# 本地整理用临时文件（本库只保留 Markdown 索引）
+/tmp/
+downloads/
+*.jar
+*.zip
+*.mrpack
+
+# 本地 MC 游戏目录（如有人克隆后误放入）
+.minecraft/
